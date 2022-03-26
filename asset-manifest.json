@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1ca20177.css",
+    "main.js": "./static/js/main.8f0e978d.js",
+    "static/media/profile-bg.jpg": "./static/media/profile-bg.b5be1adb73f05d213f4c.jpg",
+    "static/media/Poppins-Thin.ttf": "./static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "./static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "./static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "./static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "./static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "./static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/background-home.png": "./static/media/background-home.c036d5f21f5e39cb5340.png",
+    "static/media/sf.jpg": "./static/media/sf.79de180d382e08a1402f.jpg",
+    "static/media/Logo.png": "./static/media/Logo.d0437f7d46469a18176a.png",
+    "static/media/background-about.png": "./static/media/background-about.70601b39ba13bd49e66b.png",
+    "static/media/512x512.png": "./static/media/512x512.f092545b32d9b7ed01fc.png",
+    "static/media/google-play-badge.png": "./static/media/google-play-badge.f902960a94878ee0da67.png",
+    "index.html": "./index.html",
+    "main.1ca20177.css.map": "./static/css/main.1ca20177.css.map",
+    "main.8f0e978d.js.map": "./static/js/main.8f0e978d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca20177.css",
+    "static/js/main.8f0e978d.js"
+  ]
+}
