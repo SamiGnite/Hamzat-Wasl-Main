@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c4581294.css",
-    "main.js": "./static/js/main.8f0e978d.js",
+    "main.css": "./static/css/main.059e866c.css",
+    "main.js": "./static/js/main.77061c34.js",
     "static/media/profile-bg.jpg": "./static/media/profile-bg.b5be1adb73f05d213f4c.jpg",
     "static/media/Poppins-Thin.ttf": "./static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -17,11 +17,11 @@
     "static/media/512x512.png": "./static/media/512x512.f092545b32d9b7ed01fc.png",
     "static/media/google-play-badge.png": "./static/media/google-play-badge.f902960a94878ee0da67.png",
     "index.html": "./index.html",
-    "main.c4581294.css.map": "./static/css/main.c4581294.css.map",
-    "main.8f0e978d.js.map": "./static/js/main.8f0e978d.js.map"
+    "main.059e866c.css.map": "./static/css/main.059e866c.css.map",
+    "main.77061c34.js.map": "./static/js/main.77061c34.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4581294.css",
-    "static/js/main.8f0e978d.js"
+    "static/css/main.059e866c.css",
+    "static/js/main.77061c34.js"
   ]
 }
