@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b27936ed.css",
-    "main.js": "./static/js/main.77061c34.js",
+    "main.css": "./static/css/main.a6d4eea4.css",
+    "main.js": "./static/js/main.1ed5f363.js",
     "static/media/profile-bg.jpg": "./static/media/profile-bg.b5be1adb73f05d213f4c.jpg",
     "static/media/Poppins-Thin.ttf": "./static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -12,16 +12,17 @@
     "static/media/Poppins-ExtraBold.ttf": "./static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/background-home.png": "./static/media/background-home.c036d5f21f5e39cb5340.png",
     "static/media/sf.jpg": "./static/media/sf.79de180d382e08a1402f.jpg",
-    "static/media/Logo.png": "./static/media/Logo.d0437f7d46469a18176a.png",
     "static/media/background-about.png": "./static/media/background-about.70601b39ba13bd49e66b.png",
+    "static/media/google.png": "./static/media/google.4e4e29450907975f4c9f.png",
     "static/media/512x512.png": "./static/media/512x512.f092545b32d9b7ed01fc.png",
     "static/media/google-play-badge.png": "./static/media/google-play-badge.f902960a94878ee0da67.png",
+    "static/media/facebook.png": "./static/media/facebook.3730403f98d14597ef90.png",
     "index.html": "./index.html",
-    "main.b27936ed.css.map": "./static/css/main.b27936ed.css.map",
-    "main.77061c34.js.map": "./static/js/main.77061c34.js.map"
+    "main.a6d4eea4.css.map": "./static/css/main.a6d4eea4.css.map",
+    "main.1ed5f363.js.map": "./static/js/main.1ed5f363.js.map"
   },
   "entrypoints": [
-    "static/css/main.b27936ed.css",
-    "static/js/main.77061c34.js"
+    "static/css/main.a6d4eea4.css",
+    "static/js/main.1ed5f363.js"
   ]
 }
